@@ -23,15 +23,19 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=701tkdgns&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
-<h2> tech stack </h2> 
-<div class="d-flex">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PYTHON-3776ab?style=flat&logo=PYTHON&logoColor=white"/>
-<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=REACT&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flate&logo=Node.js&logoColor=white"/>
-
+<div>
+  <h2> Tech Stack </h2> 
+  <div class="d-flex">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+     <br/>
+    <img src="https://img.shields.io/badge/PYTHON-3776ab?style=for-the-badge&logo=PYTHON&logoColor=white"/>
+    <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=REACT&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
+  </div>
 </div>
 
 
