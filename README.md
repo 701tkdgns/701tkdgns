@@ -33,9 +33,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/PYTHON-3776ab?style=for-the-badge&logo=PYTHON&logoColor=white"/>
     <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=REACT&logoColor=black"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Java-B07119?style=for-the-badge&logo=Java&logoColor=white"> 
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
   </div>
 </div>
-
 
