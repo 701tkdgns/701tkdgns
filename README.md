@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 
+
 <!--
 **701tkdgns/701tkdgns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,6 +26,8 @@ Here are some ideas to get you started:
 <br/>
 
 <div>
+  <h2><a href="https://701tkdgns.github.io/portfolio2">Portfolio</a> </h2>
+  
   <h2> Tech Stack </h2> 
   <div class="d-flex"> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
