@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br/>
 
 <div>
-  <h2>포트폴리오 <a href="https://701tkdgns.github.io/portfolio2">링크</a> </h2>
+  <h2>개인 사이트 <a href="https://701tkdgns.github.io/portfolio2">링크</a> </h2>
   
   <h2> Tech Stack </h2> 
   <div class="d-flex"> 
