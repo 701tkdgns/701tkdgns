@@ -20,9 +20,11 @@ Here are some ideas to get you started:
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=701tkdgns&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=701tkdgns&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=701tkdgns&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=701tkdgns&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
 <br/>
 
 <div>
@@ -30,6 +32,7 @@ Here are some ideas to get you started:
   
   <h2> Tech Stack </h2> 
   <div class="d-flex"> 
+    <img src="https://img.shields.io/badge/DotNet-512BD4?style=for-the-badge&logo=dotnet&logoColor=black"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
     <img src="https://img.shields.io/badge/PYTHON-3776ab?style=for-the-badge&logo=PYTHON&logoColor=white"/>
     <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=REACT&logoColor=black"/>
